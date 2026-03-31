@@ -17,19 +17,14 @@ connectDB();
 const ALLOWED_ORIGINS = [
   process.env.CLIENT_URL,
   "http://localhost:5173",
-  "https://intern-track-phi.vercel.app/"
 ].filter(Boolean);
 
 app.use(
   cors({
-    origin: (origin, callback) => {
-      // Allow requests with no origin (Postman, mobile apps, server-to-server)
-      if (!origin || ALLOWED_ORIGINS.includes(origin)) {
-        callback(null, true);
-      } else {
-        callback(new Error(`CORS: Origin ${origin} not allowed`));
-      }
-    },
+    origin: [
+      "http://localhost:5173",
+      "https://intern-track-phi.vercel.app/"
+    ],
     credentials: true,
   })
 );
