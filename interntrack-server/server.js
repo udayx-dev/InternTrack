@@ -17,6 +17,7 @@ connectDB();
 const ALLOWED_ORIGINS = [
   process.env.CLIENT_URL,
   "http://localhost:5173",
+  "https://intern-track-phi.vercel.app/"
 ].filter(Boolean);
 
 app.use(
