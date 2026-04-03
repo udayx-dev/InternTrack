@@ -53,10 +53,10 @@
 
 | Resource | URL |
 |----------|-----|
-| 🌐 Live Application | <!-- ADD VERCEL URL e.g. https://interntrack.vercel.app --> |
-| 🔌 Backend API | <!-- ADD RENDER URL e.g. https://interntrack-api.onrender.com --> |
-| 📦 Frontend Repo | <!-- ADD GITHUB URL e.g. https://github.com/username/interntrack-client --> |
-| 🛠️ Backend Repo | <!-- ADD GITHUB URL e.g. https://github.com/username/interntrack-server --> |
+| 🌐 Live Application | https://intern-track-phi.vercel.app/ |
+| 🔌 Backend API | https://interntrack-qwtf.onrender.com |
+| 📦 Frontend Repo | https://github.com/udayx-dev/InternTrack/tree/main/interntrack-client |
+| 🛠️ Backend Repo | https://github.com/udayx-dev/InternTrack/tree/main/interntrack-server |
 
 ---
 
