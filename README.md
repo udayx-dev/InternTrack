@@ -42,8 +42,7 @@
 
 | Name | Roll No. | Role |
 |------|----------|------|
-| **Uday Shinde** | SA147 | Backend Architecture · JWT Auth · REST API · MongoDB · Deployment |
-| **Vaibhav Choure** | SA148 | Frontend Development · React UI · Kanban Board · Charts · Axios Integration |
+| **Uday Shinde** | SA147 | Backend Architecture · JWT Auth · REST API · MongoDB · Deployment Frontend Development · React UI · Kanban Board · Charts · Axios Integration |
 
 > **Guide:** Prof. Jayvrat Dwivedi, Assistant Professor — School of Engineering and Technology, GHRISTU Pune
 
