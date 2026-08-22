@@ -616,21 +616,6 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
-## 📄 Academic Details
-
-```
-University  : G H Raisoni International Skill Tech University, Pune
-Department  : School of Engineering and Technology (SOET)
-Subject     : Web Technology
-Subject Code: 25BTOECE01A
-Class       : SY B.Tech. — SA1
-Term        : IV
-Project Type: TAE-II (Term Assessment Examination)
-Guide       : Prof. Jayvrat Dwivedi (Assistant Professor, SOET)
-```
-
----
-
 <div align="center">
 
 Made with 💙 by **Uday Shinde (SA147)** & **Vaibhav Choure (SA148)**  
