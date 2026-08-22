@@ -618,7 +618,6 @@ VITE_API_URL=http://localhost:5000/api
 
 <div align="center">
 
-Made with 💙 by **Uday Shinde (SA147)** & **Vaibhav Choure (SA148)**  
-GHRISTU, Pune · 2024–25
+Made with 💙 by **Uday Shinde**
 
 </div>
