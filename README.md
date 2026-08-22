@@ -31,22 +31,8 @@
 
 <br/>
 
-> **Project Report (TAE-II)** · Web Technology (25BTOECE01A) · SY B.Tech. SA1 · Term IV  
-> G H Raisoni International Skill Tech University, Pune · SOET
 
 </div>
-
----
-
-## 👥 Team
-
-| Name | Roll No. | Role |
-|------|----------|------|
-| **Uday Shinde** | SA147 | Backend Architecture · JWT Auth · REST API · MongoDB · Deployment Frontend Development · React UI · Kanban Board · Charts · Axios Integration |
-
-> **Guide:** Prof. Jayvrat Dwivedi, Assistant Professor — School of Engineering and Technology, GHRISTU Pune
-
----
 
 ## 🔗 Links
 
